@@ -36,6 +36,8 @@ FrogBase is not just about making backend development quick and easy; it's about
 
 In conclusion, FrogBase stands as a testament to the ever-evolving landscape of software development. It addresses the pain points of developers with a thoughtful and efficient solution, promising to redefine the way backend development is approached. By combining speed, flexibility, and foresight into future technological trends, FrogBase emerges as a powerful ally for developers seeking a seamless and stress-free backend development experience. As we look ahead, the promise of a Flutter Node.js SDK and expanded database support only adds to the excitement surrounding the potential of FrogBase, heralding a new era in the world of backend development.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sabikrahat)
+<a href="https://www.buymeacoffee.com/sabikrahat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+
+Copyright © 2023 Algoramming. All rights reserved.
 
